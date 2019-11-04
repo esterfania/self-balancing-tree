@@ -1,0 +1,10 @@
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\obj\Debug\netcoreapp2.1\self-balancing-tree.csproj.CoreCompileInputs.cache
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\obj\Debug\netcoreapp2.1\self-balancing-tree.AssemblyInfoInputs.cache
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\obj\Debug\netcoreapp2.1\self-balancing-tree.AssemblyInfo.cs
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\bin\Debug\netcoreapp2.1\self-balancing-tree.deps.json
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\bin\Debug\netcoreapp2.1\self-balancing-tree.runtimeconfig.json
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\bin\Debug\netcoreapp2.1\self-balancing-tree.runtimeconfig.dev.json
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\bin\Debug\netcoreapp2.1\self-balancing-tree.dll
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\bin\Debug\netcoreapp2.1\self-balancing-tree.pdb
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\obj\Debug\netcoreapp2.1\self-balancing-tree.dll
+C:\Users\Ester\Documents\self-balancing-tree\self-balancing-tree\self-balancing-tree\obj\Debug\netcoreapp2.1\self-balancing-tree.pdb
